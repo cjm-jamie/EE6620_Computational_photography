@@ -1,0 +1,4 @@
+# Filename        exposure       shutter_speed  f/stop  gain(db)
+DSC3240.jpg       0.5              2           2       0        
+DSC3244.jpg       0.03125         32           2       0        
+DSC3247.jpg       0.004          250           2       0 

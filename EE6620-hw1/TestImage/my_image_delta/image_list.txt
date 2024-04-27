@@ -1,0 +1,9 @@
+# Filename        exposure       shutter_speed  f/stop  gain(db)
+delta0000.jpg     0.6            1.66666667     1.7       0       
+delta0001.jpg     0.05           20             1.7       0       
+delta0002.jpg     0.066667       15             1.7       0       
+delta0003.jpg     0.0125         80             1.7       0       
+delta0004.jpg     0.002          500            1.7       0       
+delta0005.jpg     0.00025        4000           1.7       0       
+
+
